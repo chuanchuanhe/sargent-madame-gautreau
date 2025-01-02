@@ -10,3 +10,5 @@ conda install lxml
 conda install html5lib
 conda install BeautifulSoup4
 conda install matplotlib
+
+Seaborn: https://seaborn.pydata.org/
