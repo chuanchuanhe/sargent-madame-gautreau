@@ -10,5 +10,16 @@ conda install lxml
 conda install html5lib
 conda install BeautifulSoup4
 conda install matplotlib
+pip install plotly
+pip install cufflinks
 
 Seaborn: https://seaborn.pydata.org/
+
+Matplotlib:
+https://matplotlib.org/
+https://matplotlib.org/stable/gallery/index.html
+
+Plotly:
+https://plotly.com/python/getting-started
+
+
