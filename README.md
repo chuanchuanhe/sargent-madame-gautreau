@@ -12,6 +12,7 @@ conda install BeautifulSoup4
 conda install matplotlib
 pip install plotly
 pip install cufflinks
+pip install chart-studio
 
 Seaborn: https://seaborn.pydata.org/
 
@@ -21,5 +22,8 @@ https://matplotlib.org/stable/gallery/index.html
 
 Plotly:
 https://plotly.com/python/getting-started
+
+Choropleth:
+https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf
 
 
