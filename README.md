@@ -13,6 +13,7 @@ conda install matplotlib
 pip install plotly
 pip install cufflinks
 pip install chart-studio
+pip install pandas-datareader (to read stock info directly from internet)
 
 Seaborn: https://seaborn.pydata.org/
 
